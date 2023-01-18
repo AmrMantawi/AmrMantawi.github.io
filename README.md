@@ -1,2 +1,2 @@
 # AmrMantawi.github.io
-Showcase of porjects
+Showcase of projects
