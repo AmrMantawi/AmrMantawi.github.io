@@ -10847,3 +10847,8 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+
+.contact-link {
+  color: #212529;
+  text-decoration: none;
+}
